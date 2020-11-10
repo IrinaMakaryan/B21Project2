@@ -1,5 +1,6 @@
 public class FeatureAClass {
-    //work 
+    //work
+    // fun tool
 
 
 }
